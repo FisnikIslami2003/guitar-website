@@ -1,0 +1,21 @@
+.details-tabs {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-bottom: 30px;
+
+  button {
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    border: none;
+    background: none;
+    border-bottom: 2px solid transparent;
+    transition: 0.3s;
+
+    &.active-tab {
+      color: orange;
+      border-bottom: 2px solid orange;
+    }
+  }
+}

@@ -1,0 +1,49 @@
+.why-section{
+    height: 600px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 100px;
+    background-color: black;
+}
+.why-section h1{
+    font-size: 45px;
+    font-weight:500;
+    color: white;
+    
+}
+.icons-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 400px;
+}
+.icon-card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    width: 200px;
+}
+.icons-background{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    height: 72px;
+    width: 72px;
+    background-color:rgb(60, 53, 53);
+    margin-bottom: 20px;
+}
+.icon-card h3{
+ color: white;
+ margin: 0px;
+}
+.icon-card p{
+    margin: 0px;
+    color: white;
+}

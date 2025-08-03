@@ -1,0 +1,50 @@
+.main-browsesection{
+    height: 850px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 250px;
+}
+.main-browsesection h1{
+   font-size: 60px;
+   font-weight: 400;
+
+}
+.googleplay{
+    margin-right: 20px;
+}
+.appstore{
+    margin-right: 120px;
+}
+.secondbrowsediv {
+  position: relative;
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.guitar-images {
+  display: flex;
+  gap: 0;
+  position: relative;
+  z-index: 2;
+}
+
+.guitar-images img:first-child {
+  margin-top: -50px;
+  margin-right: -65px;
+}
+
+.guitar-images img:last-child {
+  margin-left: -65px;
+  margin-bottom: -50px;
+}
+.ellipse {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+}

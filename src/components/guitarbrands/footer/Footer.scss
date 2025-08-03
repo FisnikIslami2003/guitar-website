@@ -1,0 +1,66 @@
+.main-footer-container{
+    height: 400px;
+    background-color: rgb(227, 224, 224);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 270px;
+    
+}
+.footer-vibestrings{
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    flex-direction: column;
+}
+.butterfly-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 20px;
+}
+.butterfly-container h1{
+    font-size: 40px;
+    font-weight: 400;
+}
+.footer-pages{
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    flex-direction: column;
+    gap: 27px;
+    
+}
+.footer-pages h4{
+   font-size: 20px;
+   font-weight: 700;
+   margin: 0px;
+
+}
+.footer-pages p{
+ margin: 0px;
+
+}
+.follows-footer{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    flex-direction: column;
+    height: 170px;
+    gap: 20px;
+
+}
+.follows-footer h4{
+font-size: 20px;
+   font-weight: 700;
+   margin: 0px;
+}
+.social-media{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 30px;
+}
