@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/guitar-website/static/css/main.32f63022.css",
-    "main.js": "/guitar-website/static/js/main.e7816a11.js",
+    "main.js": "/guitar-website/static/js/main.af278116.js",
     "static/js/453.9567f5b6.chunk.js": "/guitar-website/static/js/453.9567f5b6.chunk.js",
     "static/media/topguitarimg.png": "/guitar-website/static/media/topguitarimg.af1a5e5d3fef8f4ab1b4.png",
     "static/media/Guitar s1.png": "/guitar-website/static/media/Guitar s1.4d19581ff6596c21cb09.png",
@@ -9,11 +9,11 @@
     "static/media/Halfellipse.png": "/guitar-website/static/media/Halfellipse.fac7292323b9c1465e5a.png",
     "index.html": "/guitar-website/index.html",
     "main.32f63022.css.map": "/guitar-website/static/css/main.32f63022.css.map",
-    "main.e7816a11.js.map": "/guitar-website/static/js/main.e7816a11.js.map",
+    "main.af278116.js.map": "/guitar-website/static/js/main.af278116.js.map",
     "453.9567f5b6.chunk.js.map": "/guitar-website/static/js/453.9567f5b6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.32f63022.css",
-    "static/js/main.e7816a11.js"
+    "static/js/main.af278116.js"
   ]
 }
